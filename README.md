@@ -13,3 +13,8 @@ level of JavaScript and learning how to use OpenWeatherMap API to get the weathe
 
 
 ![Weather-active](https://user-images.githubusercontent.com/77082103/233821603-e16f165f-cd5f-4022-bb21-2a627096a195.png)
+
+3. If mispelled, you get an error<br>
+
+
+![Weather-error](https://user-images.githubusercontent.com/77082103/233821626-b3bf28cc-f710-4c2e-9498-b1f09c7f3856.png)
